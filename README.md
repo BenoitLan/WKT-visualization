@@ -4,3 +4,5 @@
 
 ###  1) DO (for installing the node_modules): npm install 
 ###  2) DO: npm start
+
+#### Origin of code: https://github.com/pieterprovoost/wktmap/ 
